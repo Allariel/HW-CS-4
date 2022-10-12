@@ -1,0 +1,15 @@
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\bin\Debug\net6.0\Zadacha-25.exe
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\bin\Debug\net6.0\Zadacha-25.deps.json
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\bin\Debug\net6.0\Zadacha-25.runtimeconfig.json
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\bin\Debug\net6.0\Zadacha-25.dll
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\bin\Debug\net6.0\Zadacha-25.pdb
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\Zadacha-25.csproj.AssemblyReference.cache
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\Zadacha-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\Zadacha-25.AssemblyInfoInputs.cache
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\Zadacha-25.AssemblyInfo.cs
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\Zadacha-25.csproj.CoreCompileInputs.cache
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\Zadacha-25.dll
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\refint\Zadacha-25.dll
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\Zadacha-25.pdb
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\Zadacha-25.genruntimeconfig.cache
+C:\Users\Hamac\Desktop\HW-CS-4\HW-CS-4\Zadacha-25\obj\Debug\net6.0\ref\Zadacha-25.dll
